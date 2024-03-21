@@ -1,2 +1,2 @@
-# apz-pzpi-21-6-anatolii-zamkovyi
-# project name: ~~~~
+ПЗПІ21-6
+Замковий Анатолій
